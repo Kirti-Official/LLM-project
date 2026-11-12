@@ -1,0 +1,57 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+verdict_env/
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Model weights and downloaded models
+models/*
+!models/README.md
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Hugging Face cache
+.cache/
+cache/
+hf_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Ollama files
+ollama/
+# Legacy experimental outputs
+outputs/archive/
