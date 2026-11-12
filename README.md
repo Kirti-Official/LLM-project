@@ -1,6 +1,7 @@
 
-# VERDICT
-### Evidence-Aware Reasoning and Selective Abstention in Large Language Models Under Conflicting Contexts
+# LLM-project
+
+## VERDICT: Evidence-Aware Reasoning and Selective Abstention in Large Language Models Under Conflicting Contexts
 
 ## Overview
 
@@ -148,8 +149,3 @@ This project uses the RAMDocs dataset.
 
 Please refer to the original dataset repository for its licensing information, provenance, acknowledgements, and usage considerations.
 
-### Dataset Citation
-
-Han Wang, Archiki Prasad, Elias Stengel-Eskin, and Mohit Bansal.
-"Retrieval-Augmented Generation with Conflicting Evidence."
-2025. arXiv:2504.13079.
